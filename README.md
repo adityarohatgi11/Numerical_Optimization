@@ -5,7 +5,7 @@ This repository contains an implementation of two numerical optimization methods
 ## Project Overview
 
 ### Assignment Description
-The project compares the performance of **Grid Search** and **Newton-Raphson** methods in optimizing a mathematical function \( f: \mathbb{R}^2 \rightarrow \mathbb{R} \). Both methods compute the maximum value of the function within specific constraints and measure the number of function calls made during execution.
+The project compares the performance of **Grid Search** and **Newton-Raphson** methods in optimizing a mathematical function f: R^2 -> R. Both methods compute the maximum value of the function within specific constraints and measure the number of function calls made during execution.
 
 ### Key Functions
 1. **`gridsearch`**: Uses a brute-force grid search algorithm to find the maximum of the function \( f \) over a defined interval with a given precision.
