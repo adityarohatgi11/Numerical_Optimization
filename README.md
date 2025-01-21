@@ -34,7 +34,7 @@ This project requires Python 3.x. No additional libraries are needed.
      ```python
      newton([0,0], 0.001, f, f1, f2)
      ```
-     Tests the method with an initial guess of \([0, 0]\) and \( \epsilon = 0.001 \).
+     Tests the method with an initial guess of \([0, 0]\) and \( epsilon = 0.001 \).
    - **Grid Search**: 
      ```python
      gridsearch([-10,-10], [10,10], 0.01, f)
