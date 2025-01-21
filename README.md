@@ -19,7 +19,7 @@ The project compares the performance of **Grid Search** and **Newton-Raphson** m
 This project requires Python 3.x. No additional libraries are needed.
 
 ### Files
-- **`optimization.py`**: Python script containing the implementations of `gridsearch` and `newton` functions.
+- **`optimization_project.py`**: Python script containing the implementations of `gridsearch` and `newton` functions.
 - **Documentation**: This README and the assignment description document provide details about the methods and implementation.
 
 ---
@@ -28,7 +28,7 @@ This project requires Python 3.x. No additional libraries are needed.
 
 ### Running the Code
 1. Clone this repository.
-2. Open `optimization.py` in your favorite Python IDE or text editor.
+2. Open `optimization_project.py` in your favorite Python IDE or text editor.
 3. The code includes predefined test cases:
    - **Newton-Raphson**: 
      ```python
